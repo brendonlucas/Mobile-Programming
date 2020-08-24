@@ -130,7 +130,7 @@ class UpdateTextState extends State {
                         height: 70,
                       ),
                       onTap: () {
-                        changeText("Email");
+                        changeText("brendonplay007@gmail");
                       }),
                 ),
               ),
@@ -148,7 +148,7 @@ class UpdateTextState extends State {
                         height: 70,
                       ),
                       onTap: () {
-                        changeText("twitter");
+                        changeText("@brendonplay007");
                       }),
                 ),
               ),
@@ -166,7 +166,7 @@ class UpdateTextState extends State {
                         height: 70,
                       ),
                       onTap: () {
-                        changeText("zap");
+                        changeText("86 99547865");
                       }),
                 ),
               ),
@@ -184,7 +184,7 @@ class UpdateTextState extends State {
                         height: 70,
                       ),
                       onTap: () {
-                        changeText("git hub");
+                        changeText("@brendonlucas");
                       }),
                 ),
               ),
