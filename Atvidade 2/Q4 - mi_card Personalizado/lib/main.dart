@@ -130,7 +130,7 @@ class UpdateTextState extends State {
                         height: 70,
                       ),
                       onTap: () {
-                        changeText("brendonplay007@gmail");
+                        changeText("brendon.lu.contato@gmail");
                       }),
                 ),
               ),
